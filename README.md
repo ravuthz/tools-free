@@ -3,3 +3,5 @@
 # Subtitle Editor v1.0.0
 
 ![](./screenshot.png)
+
+Just download repository 
